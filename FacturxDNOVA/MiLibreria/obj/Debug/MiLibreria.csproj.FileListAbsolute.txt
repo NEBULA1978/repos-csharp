@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\FacturxD\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\NEXT\source\repos\FacturxD\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\NEXT\source\repos\FacturxD\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\FacturxD\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\FacturxD\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\NEXT\source\repos\FacturxD\MiLibreria\obj\Debug\MiLibreria.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{67DA44A2-1F5B-4F75-B374-B660DCF8CBCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amplicionSwitchCadenascaracteres", "amplicionSwitchCadenascaracteres\amplicionSwitchCadenascaracteres.csproj", "{2DA0A454-EF8B-40DF-871E-C1F69DA61DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DA44A2-1F5B-4F75-B374-B660DCF8CBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DA44A2-1F5B-4F75-B374-B660DCF8CBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DA44A2-1F5B-4F75-B374-B660DCF8CBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DA44A2-1F5B-4F75-B374-B660DCF8CBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA0A454-EF8B-40DF-871E-C1F69DA61DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA0A454-EF8B-40DF-871E-C1F69DA61DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA0A454-EF8B-40DF-871E-C1F69DA61DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA0A454-EF8B-40DF-871E-C1F69DA61DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF983B0A-0A36-4FCF-BFB2-0382A98A18ED}
+	EndGlobalSection
+EndGlobal

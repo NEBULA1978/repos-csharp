@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\bin\Debug\MiprimeraAplicacion.exe.config
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\bin\Debug\MiprimeraAplicacion.exe
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\bin\Debug\MiprimeraAplicacion.pdb
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.Form1.resources
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.Properties.Resources.resources
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.exe
+C:\Users\NEXT\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.pdb

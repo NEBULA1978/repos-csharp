@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\ForSimple\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\NEXT\source\repos\ForSimple\Foreach\bin\Debug\Foreach.exe
+C:\Users\NEXT\source\repos\ForSimple\Foreach\bin\Debug\Foreach.pdb
+C:\Users\NEXT\source\repos\ForSimple\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\ForSimple\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\ForSimple\Foreach\obj\Debug\Foreach.exe
+C:\Users\NEXT\source\repos\ForSimple\Foreach\obj\Debug\Foreach.pdb

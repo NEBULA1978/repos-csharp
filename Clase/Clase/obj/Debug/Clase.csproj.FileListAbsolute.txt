@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\NEXT\source\repos\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\NEXT\source\repos\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\NEXT\source\repos\Clase\Clase\obj\Debug\Clase.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\NEXT\source\repos\Clase\Clase\obj\Debug\Clase.pdb

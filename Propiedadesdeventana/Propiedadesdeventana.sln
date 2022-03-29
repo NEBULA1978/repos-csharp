@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propiedadesdeventana", "Propiedadesdeventana\Propiedadesdeventana.csproj", "{B10750A2-5B19-469A-9C0C-88081E6CA804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10750A2-5B19-469A-9C0C-88081E6CA804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10750A2-5B19-469A-9C0C-88081E6CA804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10750A2-5B19-469A-9C0C-88081E6CA804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10750A2-5B19-469A-9C0C-88081E6CA804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5636BF73-AD6E-490F-9337-98EE4897A8E6}
+	EndGlobalSection
+EndGlobal

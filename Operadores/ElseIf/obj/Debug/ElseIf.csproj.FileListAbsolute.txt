@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Operadores\ElseIf\bin\Debug\ElseIf.exe.config
+C:\Users\NEXT\source\repos\Operadores\ElseIf\bin\Debug\ElseIf.exe
+C:\Users\NEXT\source\repos\Operadores\ElseIf\bin\Debug\ElseIf.pdb
+C:\Users\NEXT\source\repos\Operadores\ElseIf\obj\Debug\ElseIf.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Operadores\ElseIf\obj\Debug\ElseIf.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\ElseIf\obj\Debug\ElseIf.exe
+C:\Users\NEXT\source\repos\Operadores\ElseIf\obj\Debug\ElseIf.pdb

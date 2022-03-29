@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\bin\Debug\HolaMudo.exe.config
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\bin\Debug\HolaMudo.exe
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\bin\Debug\HolaMudo.pdb
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\obj\Debug\HolaMudo.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\obj\Debug\HolaMudo.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\obj\Debug\HolaMudo.exe
+C:\Users\NEXT\source\repos\HolaMudo\HolaMudo\obj\Debug\HolaMudo.pdb

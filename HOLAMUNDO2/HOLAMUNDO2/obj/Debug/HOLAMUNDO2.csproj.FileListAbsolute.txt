@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\bin\Debug\HOLAMUNDO2.exe.config
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\bin\Debug\HOLAMUNDO2.exe
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\bin\Debug\HOLAMUNDO2.pdb
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.Properties.Resources.resources
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.exe
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.pdb
+C:\Users\NEXT\source\repos\HOLAMUNDO2\HOLAMUNDO2\obj\Debug\HOLAMUNDO2.FORMULARIOS.FrmPortada.resources

@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\If_anidado\bin\Debug\If_anidado.exe.config
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\If_anidado\bin\Debug\If_anidado.exe
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\If_anidado\bin\Debug\If_anidado.pdb
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\If_anidado\obj\Debug\If_anidado.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\If_anidado\obj\Debug\If_anidado.exe
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\If_anidado\obj\Debug\If_anidado.pdb

@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Propietats\Propietats\bin\Debug\Propietats.exe.config
+C:\Users\NEXT\source\repos\Propietats\Propietats\bin\Debug\Propietats.exe
+C:\Users\NEXT\source\repos\Propietats\Propietats\bin\Debug\Propietats.pdb
+C:\Users\NEXT\source\repos\Propietats\Propietats\obj\Debug\Propietats.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Propietats\Propietats\obj\Debug\Propietats.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Propietats\Propietats\obj\Debug\Propietats.exe
+C:\Users\NEXT\source\repos\Propietats\Propietats\obj\Debug\Propietats.pdb

@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\bin\Debug\VectoresMatrices.exe.config
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\bin\Debug\VectoresMatrices.exe
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\bin\Debug\VectoresMatrices.pdb
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\obj\Debug\VectoresMatrices.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\obj\Debug\VectoresMatrices.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\obj\Debug\VectoresMatrices.exe
+C:\Users\NEXT\source\repos\VectoresMatrices\VectoresMatrices\obj\Debug\VectoresMatrices.pdb

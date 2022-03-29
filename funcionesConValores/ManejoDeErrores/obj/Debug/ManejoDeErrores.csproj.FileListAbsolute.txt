@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe.config
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\bin\Debug\ManejoDeErrores.exe
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\obj\Debug\ManejoDeErrores.exe
+C:\Users\NEXT\source\repos\funcionesConValores\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\bin\Debug\ForSimple.exe.config
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\bin\Debug\ForSimple.exe
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\bin\Debug\ForSimple.pdb
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\obj\Debug\ForSimple.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\obj\Debug\ForSimple.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\obj\Debug\ForSimple.exe
+C:\Users\NEXT\source\repos\ForSimple\ForSimple\obj\Debug\ForSimple.pdb

@@ -1,0 +1,12 @@
+C:\Users\NEXT\source\repos\FacturaXD\bin\Debug\FacturaXD.exe.config
+C:\Users\NEXT\source\repos\FacturaXD\bin\Debug\FacturaXD.pdb
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.Form1.resources
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.Properties.Resources.resources
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.exe
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.pdb
+C:\Users\NEXT\source\repos\FacturaXD\bin\Debug\ClassLibrary1.dll
+C:\Users\NEXT\source\repos\FacturaXD\bin\Debug\ClassLibrary1.pdb
+C:\Users\NEXT\source\repos\FacturaXD\obj\Debug\FacturaXD.csproj.CopyComplete

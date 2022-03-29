@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe.config
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.exe
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\bin\Debug\OperadoresRelacionales.pdb
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.exe
+C:\Users\NEXT\source\repos\OperadoresRelacionales\OperadoresRelacionales\obj\Debug\OperadoresRelacionales.pdb

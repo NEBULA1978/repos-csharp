@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\bin\Debug\WhileDoWHile.exe.config
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\bin\Debug\WhileDoWHile.exe
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\bin\Debug\WhileDoWHile.pdb
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\obj\Debug\WhileDoWHile.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\obj\Debug\WhileDoWHile.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\obj\Debug\WhileDoWHile.exe
+C:\Users\NEXT\source\repos\WhileDoWHile\WhileDoWHile\obj\Debug\WhileDoWHile.pdb

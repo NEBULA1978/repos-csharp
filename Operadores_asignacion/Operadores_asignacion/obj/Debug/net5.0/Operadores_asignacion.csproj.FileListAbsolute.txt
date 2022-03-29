@@ -1,0 +1,16 @@
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\Operadores_asignacion.exe
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\Operadores_asignacion.deps.json
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\Operadores_asignacion.runtimeconfig.json
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\Operadores_asignacion.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\Operadores_asignacion.dll
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\ref\Operadores_asignacion.dll
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\bin\Debug\net5.0\Operadores_asignacion.pdb
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.AssemblyInfo.cs
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.dll
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\ref\Operadores_asignacion.dll
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.pdb
+C:\Users\NEXT\source\repos\Operadores_asignacion\Operadores_asignacion\obj\Debug\net5.0\Operadores_asignacion.genruntimeconfig.cache

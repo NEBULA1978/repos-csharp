@@ -1,0 +1,11 @@
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\bin\Debug\FormulariMdi.exe.config
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\bin\Debug\FormulariMdi.exe
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\bin\Debug\FormulariMdi.pdb
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.Form1.resources
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.Form2.resources
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.Properties.Resources.resources
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.exe
+C:\Users\NEXT\source\repos\FormulariMdi\FormulariMdi\obj\Debug\FormulariMdi.pdb

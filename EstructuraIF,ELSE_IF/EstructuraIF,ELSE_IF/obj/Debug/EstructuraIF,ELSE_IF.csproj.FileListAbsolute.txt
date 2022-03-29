@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\bin\Debug\EstructuraIF,ELSE_IF.exe.config
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\bin\Debug\EstructuraIF,ELSE_IF.exe
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\bin\Debug\EstructuraIF,ELSE_IF.pdb
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\obj\Debug\EstructuraIF,ELSE_IF.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\obj\Debug\EstructuraIF,ELSE_IF.exe
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\obj\Debug\EstructuraIF,ELSE_IF.pdb
+C:\Users\NEXT\source\repos\EstructuraIF,ELSE_IF\EstructuraIF,ELSE_IF\obj\Debug\EstructuraIF,ELSE_IF.csproj.AssemblyReference.cache

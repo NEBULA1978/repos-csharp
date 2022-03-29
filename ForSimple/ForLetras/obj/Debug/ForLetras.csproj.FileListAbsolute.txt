@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\ForSimple\ForLetras\bin\Debug\ForLetras.exe.config
+C:\Users\NEXT\source\repos\ForSimple\ForLetras\bin\Debug\ForLetras.exe
+C:\Users\NEXT\source\repos\ForSimple\ForLetras\bin\Debug\ForLetras.pdb
+C:\Users\NEXT\source\repos\ForSimple\ForLetras\obj\Debug\ForLetras.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\ForSimple\ForLetras\obj\Debug\ForLetras.exe
+C:\Users\NEXT\source\repos\ForSimple\ForLetras\obj\Debug\ForLetras.pdb

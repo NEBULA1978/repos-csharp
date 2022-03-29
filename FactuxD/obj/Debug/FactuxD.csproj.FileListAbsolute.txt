@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\FactuxD\bin\Debug\FactuxD.exe.config
+C:\Users\NEXT\source\repos\FactuxD\bin\Debug\FactuxD.exe
+C:\Users\NEXT\source\repos\FactuxD\bin\Debug\FactuxD.pdb
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.Form1.resources
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.Properties.Resources.resources
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.exe
+C:\Users\NEXT\source\repos\FactuxD\obj\Debug\FactuxD.pdb

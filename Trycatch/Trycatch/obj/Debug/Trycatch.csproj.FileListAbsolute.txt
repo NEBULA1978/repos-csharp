@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\Trycatch\Trycatch\bin\Debug\Trycatch.exe.config
+C:\Users\NEXT\source\repos\Trycatch\Trycatch\bin\Debug\Trycatch.exe
+C:\Users\NEXT\source\repos\Trycatch\Trycatch\bin\Debug\Trycatch.pdb
+C:\Users\NEXT\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.exe
+C:\Users\NEXT\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.pdb

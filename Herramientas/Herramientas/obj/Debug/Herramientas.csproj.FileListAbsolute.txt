@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\bin\Debug\Herramientas.exe.config
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\bin\Debug\Herramientas.exe
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\bin\Debug\Herramientas.pdb
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.Form1.resources
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.Properties.Resources.resources
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.exe
+C:\Users\NEXT\source\repos\Herramientas\Herramientas\obj\Debug\Herramientas.pdb

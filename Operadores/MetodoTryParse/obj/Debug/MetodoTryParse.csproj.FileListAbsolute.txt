@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\bin\Debug\MetodoTryParse.exe.config
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\bin\Debug\MetodoTryParse.exe
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\bin\Debug\MetodoTryParse.pdb
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\obj\Debug\MetodoTryParse.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\obj\Debug\MetodoTryParse.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\obj\Debug\MetodoTryParse.exe
+C:\Users\NEXT\source\repos\Operadores\MetodoTryParse\obj\Debug\MetodoTryParse.pdb

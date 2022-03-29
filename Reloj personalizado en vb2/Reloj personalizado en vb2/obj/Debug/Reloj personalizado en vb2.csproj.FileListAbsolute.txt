@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\bin\Debug\Reloj personalizado en vb2.exe.config
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\bin\Debug\Reloj personalizado en vb2.exe
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\bin\Debug\Reloj personalizado en vb2.pdb
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj personalizado en vb2.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj_personalizado_en_vb2.Form1.resources
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj_personalizado_en_vb2.Properties.Resources.resources
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj personalizado en vb2.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj personalizado en vb2.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj personalizado en vb2.exe
+C:\Users\NEXT\source\repos\Reloj personalizado en vb2\Reloj personalizado en vb2\obj\Debug\Reloj personalizado en vb2.pdb

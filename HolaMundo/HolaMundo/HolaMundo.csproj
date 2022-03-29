@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Clases\CLASEINICIAL.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ApplicationDefinition Include="Clases\CLASEINICIAL.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Formularios\" />
+    <Folder Include="BaseDatos\" />
+    <Folder Include="Imagenes\" />
+    <Folder Include="Arduino\" />
+    <Folder Include="Plcs\" />
+    <Folder Include="Pics\" />
+    <Folder Include="Sonidos\" />
+    <Folder Include="Videos\" />
+    <Folder Include="Textos\" />
+  </ItemGroup>
+
+</Project>

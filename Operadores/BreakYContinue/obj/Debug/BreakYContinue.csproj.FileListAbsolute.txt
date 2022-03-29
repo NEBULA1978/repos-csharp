@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\bin\Debug\BreakYContinue.exe.config
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\bin\Debug\BreakYContinue.exe
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\bin\Debug\BreakYContinue.pdb
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\obj\Debug\BreakYContinue.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\obj\Debug\BreakYContinue.exe
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\obj\Debug\BreakYContinue.pdb
+C:\Users\NEXT\source\repos\Operadores\BreakYContinue\obj\Debug\BreakYContinue.csproj.AssemblyReference.cache

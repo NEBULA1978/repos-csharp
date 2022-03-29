@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\bin\Debug\RelojPersonalizat.exe.config
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\bin\Debug\RelojPersonalizat.exe
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\bin\Debug\RelojPersonalizat.pdb
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.Form1.resources
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.Properties.Resources.resources
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.exe
+C:\Users\NEXT\source\repos\RelojPersonalizat\RelojPersonalizat\obj\Debug\RelojPersonalizat.pdb

@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\bin\Debug\amplicionSwitchCadenascaracteres.exe.config
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\bin\Debug\amplicionSwitchCadenascaracteres.exe
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\bin\Debug\amplicionSwitchCadenascaracteres.pdb
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\obj\Debug\amplicionSwitchCadenascaracteres.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\obj\Debug\amplicionSwitchCadenascaracteres.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\obj\Debug\amplicionSwitchCadenascaracteres.exe
+C:\Users\NEXT\source\repos\Switch\amplicionSwitchCadenascaracteres\obj\Debug\amplicionSwitchCadenascaracteres.pdb

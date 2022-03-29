@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\bin\Debug\funcionesConValores.exe.config
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\bin\Debug\funcionesConValores.exe
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\bin\Debug\funcionesConValores.pdb
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\obj\Debug\funcionesConValores.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\obj\Debug\funcionesConValores.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\obj\Debug\funcionesConValores.exe
+C:\Users\NEXT\source\repos\funcionesConValores\funcionesConValores\obj\Debug\funcionesConValores.pdb

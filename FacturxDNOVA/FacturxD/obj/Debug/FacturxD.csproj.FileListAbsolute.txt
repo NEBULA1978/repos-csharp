@@ -1,0 +1,13 @@
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\bin\Debug\FacturxD.exe.config
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\bin\Debug\FacturxD.exe
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\bin\Debug\FacturxD.pdb
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.Form1.resources
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.Properties.Resources.resources
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.exe
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.pdb
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\bin\Debug\MiLibreria.dll
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\bin\Debug\MiLibreria.pdb
+C:\Users\NEXT\source\repos\FacturxD\FacturxD\obj\Debug\FacturxD.csproj.CopyComplete

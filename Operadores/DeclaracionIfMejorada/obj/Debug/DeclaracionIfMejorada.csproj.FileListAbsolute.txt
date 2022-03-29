@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\Operadores\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe.config
+C:\Users\NEXT\source\repos\Operadores\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.exe
+C:\Users\NEXT\source\repos\Operadores\DeclaracionIfMejorada\bin\Debug\DeclaracionIfMejorada.pdb
+C:\Users\NEXT\source\repos\Operadores\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.exe
+C:\Users\NEXT\source\repos\Operadores\DeclaracionIfMejorada\obj\Debug\DeclaracionIfMejorada.pdb

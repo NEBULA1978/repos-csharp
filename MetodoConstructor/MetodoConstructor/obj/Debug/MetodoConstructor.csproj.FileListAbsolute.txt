@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.exe.config
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.exe
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\bin\Debug\MetodoConstructor.pdb
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.exe
+C:\Users\NEXT\source\repos\MetodoConstructor\MetodoConstructor\obj\Debug\MetodoConstructor.pdb

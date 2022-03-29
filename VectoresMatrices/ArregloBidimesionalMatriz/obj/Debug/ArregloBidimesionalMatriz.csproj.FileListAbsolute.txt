@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\obj\Debug\ArregloBidimesionalMatriz.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\bin\Debug\ArregloBidimesionalMatriz.exe.config
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\bin\Debug\ArregloBidimesionalMatriz.exe
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\bin\Debug\ArregloBidimesionalMatriz.pdb
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\obj\Debug\ArregloBidimesionalMatriz.exe
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\obj\Debug\ArregloBidimesionalMatriz.pdb
+C:\Users\NEXT\source\repos\VectoresMatrices\ArregloBidimesionalMatriz\obj\Debug\ArregloBidimesionalMatriz.csproj.AssemblyReference.cache

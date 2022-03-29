@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\bin\Debug\IfAnidado.exe.config
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\bin\Debug\IfAnidado.exe
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\bin\Debug\IfAnidado.pdb
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\obj\Debug\IfAnidado.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\obj\Debug\IfAnidado.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\obj\Debug\IfAnidado.exe
+C:\Users\NEXT\source\repos\Operadores\IfAnidado\obj\Debug\IfAnidado.pdb

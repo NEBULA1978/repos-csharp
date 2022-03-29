@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Operadores\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\NEXT\source\repos\Operadores\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\NEXT\source\repos\Operadores\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\NEXT\source\repos\Operadores\Condicionales\obj\Debug\Condicionales.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Operadores\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\NEXT\source\repos\Operadores\Condicionales\obj\Debug\Condicionales.pdb

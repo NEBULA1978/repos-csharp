@@ -1,0 +1,5 @@
+C:\Users\NEXT\source\repos\Poner audio a los botones en vb\Poner audio a los botones en vb\obj\Debug\Poner audio a los botones en vb.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Poner audio a los botones en vb\Poner audio a los botones en vb\obj\Debug\Poner_audio_a_los_botones_en_vb.Form1.resources
+C:\Users\NEXT\source\repos\Poner audio a los botones en vb\Poner audio a los botones en vb\obj\Debug\Poner_audio_a_los_botones_en_vb.Properties.Resources.resources
+C:\Users\NEXT\source\repos\Poner audio a los botones en vb\Poner audio a los botones en vb\obj\Debug\Poner audio a los botones en vb.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\Poner audio a los botones en vb\Poner audio a los botones en vb\obj\Debug\Poner audio a los botones en vb.csproj.CoreCompileInputs.cache

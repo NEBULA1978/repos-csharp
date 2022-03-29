@@ -1,0 +1,11 @@
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\bin\Debug\VentanaLogin.exe.config
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\bin\Debug\VentanaLogin.exe
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\bin\Debug\VentanaLogin.pdb
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.Form1.resources
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.Properties.Resources.resources
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.exe
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.pdb
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\VentanaLogin\VentanaLogin\obj\Debug\VentanaLogin.Ventana2.resources

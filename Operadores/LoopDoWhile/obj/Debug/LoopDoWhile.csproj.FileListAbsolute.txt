@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\bin\Debug\LoopDoWhile.exe.config
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\bin\Debug\LoopDoWhile.exe
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\bin\Debug\LoopDoWhile.pdb
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\obj\Debug\LoopDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\obj\Debug\LoopDoWhile.exe
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\obj\Debug\LoopDoWhile.pdb
+C:\Users\NEXT\source\repos\Operadores\LoopDoWhile\obj\Debug\LoopDoWhile.csproj.AssemblyReference.cache

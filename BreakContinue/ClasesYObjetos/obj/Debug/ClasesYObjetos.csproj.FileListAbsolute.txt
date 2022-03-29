@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\bin\Debug\ClasesYObjetos.exe.config
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\bin\Debug\ClasesYObjetos.exe
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\bin\Debug\ClasesYObjetos.pdb
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\obj\Debug\ClasesYObjetos.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\obj\Debug\ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\obj\Debug\ClasesYObjetos.exe
+C:\Users\NEXT\source\repos\BreakContinue\ClasesYObjetos\obj\Debug\ClasesYObjetos.pdb

@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\MiLibreriaBuenaULT\bin\Debug\MiLibreriaBuenaULT.dll
+C:\Users\NEXT\source\repos\MiLibreriaBuenaULT\bin\Debug\MiLibreriaBuenaULT.pdb
+C:\Users\NEXT\source\repos\MiLibreriaBuenaULT\obj\Debug\MiLibreriaBuenaULT.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\MiLibreriaBuenaULT\obj\Debug\MiLibreriaBuenaULT.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\MiLibreriaBuenaULT\obj\Debug\MiLibreriaBuenaULT.dll
+C:\Users\NEXT\source\repos\MiLibreriaBuenaULT\obj\Debug\MiLibreriaBuenaULT.pdb

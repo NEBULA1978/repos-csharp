@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\bin\Debug\BreakContinue.exe.config
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\bin\Debug\BreakContinue.exe
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\bin\Debug\BreakContinue.pdb
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.exe
+C:\Users\NEXT\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.pdb

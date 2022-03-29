@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\bin\Debug\GoTo.exe.config
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\bin\Debug\GoTo.exe
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\bin\Debug\GoTo.pdb
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\obj\Debug\GoTo.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\obj\Debug\GoTo.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\obj\Debug\GoTo.exe
+C:\Users\NEXT\source\repos\Instrucciones\GoTo\obj\Debug\GoTo.pdb

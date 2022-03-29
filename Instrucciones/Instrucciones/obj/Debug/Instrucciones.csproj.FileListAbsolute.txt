@@ -1,0 +1,7 @@
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\bin\Debug\Instrucciones.exe.config
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\bin\Debug\Instrucciones.exe
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\bin\Debug\Instrucciones.pdb
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\obj\Debug\Instrucciones.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\obj\Debug\Instrucciones.exe
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\obj\Debug\Instrucciones.pdb
+C:\Users\NEXT\source\repos\Instrucciones\Instrucciones\obj\Debug\Instrucciones.csproj.AssemblyReference.cache

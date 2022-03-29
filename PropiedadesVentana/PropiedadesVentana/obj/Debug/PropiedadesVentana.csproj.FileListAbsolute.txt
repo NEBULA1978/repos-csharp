@@ -1,0 +1,10 @@
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\bin\Debug\PropiedadesVentana.exe.config
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\bin\Debug\PropiedadesVentana.exe
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\bin\Debug\PropiedadesVentana.pdb
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.Formulario.resources
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.Properties.Resources.resources
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.csproj.GenerateResource.cache
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.exe
+C:\Users\NEXT\source\repos\PropiedadesVentana\PropiedadesVentana\obj\Debug\PropiedadesVentana.pdb

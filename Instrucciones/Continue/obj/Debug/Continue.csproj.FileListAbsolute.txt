@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\Instrucciones\Continue\bin\Debug\Continue.exe.config
+C:\Users\NEXT\source\repos\Instrucciones\Continue\bin\Debug\Continue.exe
+C:\Users\NEXT\source\repos\Instrucciones\Continue\bin\Debug\Continue.pdb
+C:\Users\NEXT\source\repos\Instrucciones\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\Instrucciones\Continue\obj\Debug\Continue.exe
+C:\Users\NEXT\source\repos\Instrucciones\Continue\obj\Debug\Continue.pdb

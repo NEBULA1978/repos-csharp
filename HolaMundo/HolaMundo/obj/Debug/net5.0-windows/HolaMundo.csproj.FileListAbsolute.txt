@@ -1,0 +1,16 @@
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\HolaMundo.exe
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\HolaMundo.deps.json
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\HolaMundo.runtimeconfig.json
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\HolaMundo.runtimeconfig.dev.json
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\HolaMundo.dll
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\ref\HolaMundo.dll
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\bin\Debug\net5.0-windows\HolaMundo.pdb
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.AssemblyInfo.cs
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.dll
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\ref\HolaMundo.dll
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.pdb
+C:\Users\NEXT\source\repos\HolaMundo\HolaMundo\obj\Debug\net5.0-windows\HolaMundo.genruntimeconfig.cache

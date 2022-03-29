@@ -1,0 +1,6 @@
+C:\Users\NEXT\source\repos\ForSimple\ForAnidado\bin\Debug\ForAnidado.exe.config
+C:\Users\NEXT\source\repos\ForSimple\ForAnidado\bin\Debug\ForAnidado.exe
+C:\Users\NEXT\source\repos\ForSimple\ForAnidado\bin\Debug\ForAnidado.pdb
+C:\Users\NEXT\source\repos\ForSimple\ForAnidado\obj\Debug\ForAnidado.csproj.CoreCompileInputs.cache
+C:\Users\NEXT\source\repos\ForSimple\ForAnidado\obj\Debug\ForAnidado.exe
+C:\Users\NEXT\source\repos\ForSimple\ForAnidado\obj\Debug\ForAnidado.pdb
